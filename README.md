@@ -1,4 +1,4 @@
-# Flint---Strike-a-spark-Keep-the-Flame
+# Flint : Strike a spark, Keep the Flame
 Flint is a sleek, dark-themed personal productivity app built in React that goes beyond simple to-do lists. It's designed for people who are serious about long-term self-improvement — not just tracking tasks, but actually following through on them.
 What it does:
 Goal Categories — Organize your life across 8 areas: Health, Finance, Career, Mind, Relationships, Purpose, Lifestyle, and Digital Wellness, each with suggested goals to get you started fast.
